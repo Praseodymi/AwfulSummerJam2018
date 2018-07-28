@@ -150,8 +150,6 @@
 		}
 	],
 	"TargetPlatforms": [
-		"AllDesktop",
-		"MacNoEditor",
 		"WindowsNoEditor"
 	]
 }
